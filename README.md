@@ -1,5 +1,5 @@
 # Olá
-Meu nome é João Eduardo, e sou do Brasil! Atualmente, estudo e faço projetos como Web Developer faz apenas dois meses. 
+Meu nome é João Eduardo, e sou do Brasil! Atualmente, estudo e faço projetos como Web Developer faz menos de um mês. 
 
 Gosto de resolver problemas e aprender, estou sempre aberto a novos desafios e possibilidades, ainda mais com *shorthands*.
 
