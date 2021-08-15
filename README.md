@@ -1,4 +1,4 @@
-# Olá
+# Olá!
 Meu nome é João Eduardo, e sou do Brasil! Atualmente, estudo e faço projetos como Web Developer faz menos de um mês. 
 
 Gosto de resolver problemas e aprender, estou sempre aberto a novos desafios e possibilidades, ainda mais com *shorthands*.
@@ -8,8 +8,8 @@ Gosto de resolver problemas e aprender, estou sempre aberto a novos desafios e p
 - Moro no Ceará desde o nascimento (esperando a oportunidade para me mudar).
 - Compartilhando um pouco da minha jornada Front-End no meu Twitter: [Dev com 4gb de ram](https://www.twitter.com/joaoduard)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoeduard0&theme=dark&show_icons=true)
-
+![João Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoeduard0&theme=dark&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduard0&layout=compact&langs_count16&theme=dark&show"/>
 
 <p align="left">
   <a href="https://www.instagram.com/joaoduardo/" alt="Instagram">
