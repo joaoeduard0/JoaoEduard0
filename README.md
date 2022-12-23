@@ -5,8 +5,8 @@ Gosto de resolver problemas e aprender, estou sempre aberto a novos desafios e p
 
 
 ### "Toda conquista começa com a decisão de tentar" ☀️
-- Moro no Ceará desde o nascimento (esperando a oportunidade para me mudar).
-- Compartilhando um pouco da minha jornada Front-End no meu Twitter: [Dev com 4gb de ram](https://www.twitter.com/joaoduard)
+- Após alguns meses como Desenvolvedor Front-End, escolhi o UX Designer como principal função
+- Compartilhando um pouco da minha jornada Front-End no meu Twitter: (https://www.twitter.com/joaoduard)
 
 ![João Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoeduard0&theme=dark&show_icons=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeduard0&layout=compact&langs_count16&theme=dark&show"/>
